@@ -1,5 +1,5 @@
 
-<h1>Hi there, I'm Will, an <a href="https://www.linkedin.com/in/william-fletcher-47761a214/">IT Professional</a>👋</h1>
+<h1>Hi there, I'm Will, an <a href="www.linkedin.com/in/willdfletch">IT Professional</a>👋</h1>
 
 🌱 I’m currently learning COMPTIA A+
 
@@ -21,7 +21,7 @@
 
 [twitter]: https://x.com/willdfletch
 [instagram]: https://www.instagram.com/willdfletch
-[linkedin]: https://www.linkedin.com/in/william-fletcher-47761a214/
+[linkedin]: www.linkedin.com/in/willdfletch
 
 
 <!--
