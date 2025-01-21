@@ -1,6 +1,8 @@
 
 <h1>Hi there, I'm Will, an <a href="https://www.linkedin.com/in/william-fletcher-47761a214/">IT Professional</a>👋</h1>
 
+🌱 I’m currently learning COMPTIA A+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -17,9 +19,11 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+[twitter]: https://x.com/willdfletch
 [instagram]: https://www.instagram.com/willdfletch
 [linkedin]: https://www.linkedin.com/in/william-fletcher-47761a214/
+
+
 <!--
 **Willdfletch/willdfletch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
