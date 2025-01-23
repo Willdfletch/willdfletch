@@ -1,7 +1,7 @@
 
 <h1>Hi there, I'm Will, an <a href="https://www.linkedin.com/in/willdfletch/">IT Professional</a>👋</h1>
 
-🌱 Now learning COMPTIA A+!
+🌱 Now learning COMPTIA A+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
